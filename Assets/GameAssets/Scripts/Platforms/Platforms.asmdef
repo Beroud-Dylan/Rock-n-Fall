@@ -1,0 +1,20 @@
+{
+    "name": "Platforms",
+    "rootNamespace": "RocknFall.Platforms",
+    "references": [
+        "GUID:1dcf0515a28a8a441a3081f13c137509",
+        "GUID:a7e9860ac451f6544a2b7abd60d711b0",
+        "GUID:67d9e3d9616e0f8448b9fd770ec1fd34",
+        "GUID:c3c3848f26f6e234d9c0a5a23f64e175",
+        "GUID:a3439c799a80f3b4d86c4f7a74a51e09"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

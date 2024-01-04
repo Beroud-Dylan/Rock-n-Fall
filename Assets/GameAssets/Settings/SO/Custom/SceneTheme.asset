@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f31a76a33ac8acc49ac44e6a2421fbb2, type: 3}
+  m_Name: SceneTheme
+  m_EditorClassIdentifier: 
+  mainTheme: {fileID: 11400000, guid: 627c72de9a5fadb4db999052aa5171c0, type: 2}
+  backgroundBlinkColor: {r: 0.09433961, g: 0.09433961, b: 0.09433961, a: 1}
+  playerBlinkColor: {r: 0.9150943, g: 0.9150943, b: 0.9150943, a: 1}
+  wallColor: {r: 0.11372549, g: 0.11372549, b: 0.11372549, a: 1}
+  themes:
+  - {fileID: 11400000, guid: 3f6c237cf12750a40a19a5ecbc582ea8, type: 2}
+  - {fileID: 11400000, guid: aac04c63eddf43b49907b73b472f7351, type: 2}
+  - {fileID: 11400000, guid: 627c72de9a5fadb4db999052aa5171c0, type: 2}
+  - {fileID: 11400000, guid: 9c5357e5ebd568244817ae66e9ed9406, type: 2}
